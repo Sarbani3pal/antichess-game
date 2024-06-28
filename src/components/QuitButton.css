@@ -1,0 +1,14 @@
+.quit-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #ff4c4c;
+    color: rgb(127, 12, 145);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.quit-button:hover {
+    background-color: #ff1c1c;
+}
