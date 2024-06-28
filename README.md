@@ -64,7 +64,7 @@ To run this project locally, follow these steps:
 To start the development server and view the app in your browser, run:
  `-`npm start
 
-This command will open a new tab in your default browser with the AntiChess game running locally.
+- This command will open a new tab in your default browser with the AntiChess game running locally.
 
 ##Features
 
