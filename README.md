@@ -3,7 +3,7 @@
 **--> Welcome to AntiChess, a web-based chess-like game with a twist!**
 
 ## Overview
-AntiChess is built using React and allows players to enjoy a variant of chess where the objective is to lose all your pieces  (or get stalemated) to win the game.
+AntiChess is built using **React** and allows players to enjoy a variant of chess where the objective is to lose all your pieces  (or get stalemated) to win the game.
 Antichess is an eccentric variant where you lose all your pieces or get stalemated to win.
 
 In each turn the player should have the option to: 
@@ -35,6 +35,13 @@ To start the development server and view the app in your browser, run:
  `-`npm start
 
 - This command will open a new tab in your default browser with the AntiChess game running locally.
+
+## Technologies Used
+- React.js
+- HTML
+- CSS
+- JavaScript
+- Node.js (for development environment and npm packages)
 
 ## Features
 
