@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/antichess-game/static/css/main.ad7412bd.css",
+    "main.js": "/antichess-game/static/js/main.76f97e54.js",
+    "static/media/applause.mp3": "/antichess-game/static/media/applause.28b1f053803099332273.mp3",
+    "static/media/moveSound.mp3": "/antichess-game/static/media/moveSound.01437c2fde3e5fc5b439.mp3",
+    "static/media/bloopers.mp3": "/antichess-game/static/media/bloopers.0cf65e4d9508cb9a1e67.mp3",
+    "index.html": "/antichess-game/index.html",
+    "main.ad7412bd.css.map": "/antichess-game/static/css/main.ad7412bd.css.map",
+    "main.76f97e54.js.map": "/antichess-game/static/js/main.76f97e54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad7412bd.css",
+    "static/js/main.76f97e54.js"
+  ]
+}
