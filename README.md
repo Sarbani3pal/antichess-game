@@ -34,12 +34,14 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 --> Welcome to AntiChess, a web-based chess-like game with a twist!
 
 **Overview**
-AntiChess is built using React and allows players to enjoy a variant of chess where the objective is to lose all your pieces  (or get stalemated) to win the game.Antichess is an eccentric variant where you lose all your pieces or get stalemated to win.
+AntiChess is built using React and allows players to enjoy a variant of chess where the objective is to lose all your pieces  (or get stalemated) to win the game.
+Antichess is an eccentric variant where you lose all your pieces or get stalemated to win.
 
 In each turn the player should have the option to: 
-'*'Quit ( upon which the other player wins the game ) 
-'*'Move a piece from its current position to any allowed position based on the rules of the game
-Rules of teh game includes:
+`-`Quit ( upon which the other player wins the game ) 
+`-`Move a piece from its current position to any allowed position based on the rules of the game
+
+**Rules of teh game includes:**
 *Pieces move the same way they do in standard chess; however, kings lose their royal powers - they cannot castle, and checks are no longer a threat. Since kings have lost their royal powers, pawns may be promoted to kings.
 *Capturing is forced. If you can take a piece, you must. If multiple pieces can be captured, you may choose which piece you capture.
 
@@ -49,16 +51,18 @@ Rules of teh game includes:
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/Sarbani3pal/antichess-game.git
-   cd antichess-game
+ `-`git clone https://github.com/Sarbani3pal/antichess-game.git
    
-3. Install dependencies:
-   /_npm install_/
+3. Navigate to the project directory:
+   `-`cd antichess-game
+   
+5. Install dependencies:
+   `-`npm install
 
 **Running the App**
 
 To start the development server and view the app in your browser, run:
-/_npm start/_
+ `-`npm start
 
 This command will open a new tab in your default browser with the AntiChess game running locally.
 
@@ -77,7 +81,7 @@ This command will open a new tab in your default browser with the AntiChess game
 This project has been deployed using GitHub Pages.You can access it here : https://sarbani3pal.github.io/antichess-game/
 
 **Contributing**
-Contributions are welcome! Feel free to fork this repository, make your changes, and submit a pull request.
+`-`Contributions are welcome! Feel free to fork this repository, make your changes, and submit a pull request.
 
 **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
