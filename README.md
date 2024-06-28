@@ -1,3 +1,5 @@
+**I have attempted Question 2 of Pice - Tech Assignment for STCET (June 2024)**
+
 ## AntiChess Game
 
 **--> Welcome to AntiChess, a web-based chess-like game with a twist!**
