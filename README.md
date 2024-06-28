@@ -49,9 +49,10 @@ Rules of teh game includes:
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/antichess-game.git
+   git clone https://github.com/Sarbani3pal/antichess-game.git
    cd antichess-game
-2. Install dependencies:
+   
+3. Install dependencies:
    /_npm install_/
 
 **Running the App**
@@ -63,17 +64,17 @@ This command will open a new tab in your default browser with the AntiChess game
 
 **Features**
 
-Interactive chess-like gameplay.
-'*'Promotion of pawns can be to kings upon reaching the opposite end of the board.
-'*'Sound effects for piece movements and game events.
-'*'Responsive design for desktop and mobile devices.
-'*'The system should check for an illegal move and displays appropriate errors and prompt the same user to enter a valid move
-'*'If a player has won, Displays the Winner
-'*'The turn changes to the other player
+`*`Interactive chess-like gameplay.
+`*`Promotion of pawns can be to kings upon reaching the opposite end of the board.
+`*`Sound effects for piece movements and game events.
+`*`Responsive design for desktop and mobile devices.
+`*`The system should check for an illegal move and displays appropriate errors and prompt the same user to enter a valid move
+`*`If a player has won, Displays the Winner
+`*`The turn changes to the other player
 
 **Deployment**
 
-This project has been deployed using GitHub Pages.You can access it `[here]`.: `(https://sarbani3pal.github.io/antichess-game/)`
+This project has been deployed using GitHub Pages.You can access it here : https://sarbani3pal.github.io/antichess-game/
 
 **Contributing**
 Contributions are welcome! Feel free to fork this repository, make your changes, and submit a pull request.
