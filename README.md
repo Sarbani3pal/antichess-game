@@ -63,7 +63,7 @@ The turn changes to the other player
 
 **Deployment**
 
-This project is deployed using GitHub Pages
+This project is deployed using GitHub Pages : https://sarbani3pal.github.io/antichess-game/
 
 **Contributing**
 Contributions are welcome! Feel free to fork this repository, make your changes, and submit a pull request.
