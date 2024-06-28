@@ -29,10 +29,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-AntiChess Game
-Welcome to AntiChess, a web-based chess-like game with a twist!
+**AntiChess Game**
 
-Overview
+--> Welcome to AntiChess, a web-based chess-like game with a twist!
+
+**Overview**
 AntiChess is built using React and allows players to enjoy a variant of chess where the objective is to lose all your pieces or be unable to move.
 
 **Installation**
